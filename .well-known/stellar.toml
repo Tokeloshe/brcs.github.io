@@ -1,0 +1,16 @@
+# stellar.toml
+
+# Documentation Section
+[DOCUMENTATION]
+ORG_NAME = "BRCS Project"
+ORG_URL = "https://brcs.github.io"
+ORG_DESCRIPTION = "BRCS Coin is a representative token for the BRICS nations, fostering economic collaboration and growth."
+
+# Asset Information
+[[CURRENCIES]]
+code = "BRCS"
+issuer = "GBBWWZQDSIBY4RVA2X3RCOMSWMYM3OOMOVISYQ2JNJWUTSL5GATEDRKL"
+display_decimals = 7
+name = "BRCS Coin"
+desc = "A representative token for BRICS nations, symbolizing economic collaboration and growth."
+image = "https://brcs.github.io/images/logo.png"
